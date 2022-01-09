@@ -52,3 +52,17 @@ Exploring python design patterns - creational, structural, behavioural patterns
 ```sh
 # Refer to the singleton folder to see simple implemetation code
 ```
+
+## Decorator Pattern
+
+```sh
+# Used to add new features to an object without using subclassing
+# Dynamic changes
+```
+
+### Decorator Pattern Scenario
+
+```sh
+# Have a simple function that prints a name
+# We ll add a decorator that just adds <decorate> to the a text
+```
