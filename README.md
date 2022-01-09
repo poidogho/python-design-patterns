@@ -101,3 +101,24 @@ Exploring python design patterns - creational, structural, behavioural patterns
 ```sh
 # Create an adapter that translates the language
 ```
+
+## Composite Pattern
+
+```sh
+# Tries to create a tree data structrure that maintains relationships
+```
+
+### Composite Pattern Problem example
+
+```sh
+# aTry to create a recursive DS
+# elements are allowed to have their own sub elements just like a sub-menu system
+```
+
+### Composite Pattern Solution example
+
+```sh
+# Component class which will be an abstract class
+# Child class that inherits from the composite class
+# Composite class that also inherits from the component class and also maintains a child object
+```
