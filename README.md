@@ -80,3 +80,24 @@ Exploring python design patterns - creational, structural, behavioural patterns
 # Have an object called Producer who is not always available
 # A proxy class will be responsible for creating this Producer object
 ```
+
+## Adapter Pattern
+
+```sh
+# Converts an interface of a class into another class that a client expectss
+# Usually helps 2 incompatible interfaces
+```
+
+### Adapter Pattern Problem example
+
+```sh
+# Assume 2 different language objects eg- french and english
+# Both object have speakFrench() and speakEnglish() methods
+# client uses speak() method
+```
+
+### Adapter Pattern Solution example
+
+```sh
+# Create an adapter that translates the language
+```
