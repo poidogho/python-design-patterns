@@ -66,3 +66,17 @@ Exploring python design patterns - creational, structural, behavioural patterns
 # Have a simple function that prints a name
 # We ll add a decorator that just adds <decorate> to the a text
 ```
+
+## Proxy Pattern
+
+```sh
+# Used when its expensive to create an object
+# responsibility of creating such object is now shifted to a proxy class
+```
+
+### Proxy Pattern Scenario
+
+```sh
+# Have an object called Producer who is not always available
+# A proxy class will be responsible for creating this Producer object
+```
